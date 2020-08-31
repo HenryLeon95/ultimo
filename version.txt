@@ -1,2 +1,4 @@
 version 1.0.0
 Tiene las funciones 
+
+version2.0.0
